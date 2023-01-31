@@ -1,12 +1,12 @@
 {
-  "name": "Project-Mgmt-App",
+  "name": "server",
   "version": "1.0.0",
   "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node server/index.js",
-    "dev": "nodemon server/index.js"
+    "dev": "node index.js",
+    "start": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
